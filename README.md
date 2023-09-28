@@ -15,13 +15,13 @@ Health and income outcomes for 184 countries from 1960 to 2016. Also includes tw
 |region	| Geographical region |
 
 Questions to be answered:
-•	What is the average infant mortality rate, life expectancy, fertility across the world.
-•	What is the average world’s population
-•	Which countries lead in infant mortality
-•	What countries lead in life expectancy
-•	Which countries have the highest fertility
-•	What countries have the highest gdp
-•	What years had the highest rate of infant mortality
-•	What years had the highest life expectancy
-•	What year was the fertility highest
-•	The relationship between continents and infant mortality, life expectancy and fertility
+- What is the average infant mortality rate, life expectancy, fertility across the world.
+-	What is the average world’s population
+-	Which countries lead in infant mortality
+-	What countries lead in life expectancy
+-	Which countries have the highest fertility
+-	What countries have the highest gdp
+-	What years had the highest rate of infant mortality
+-	What years had the highest life expectancy
+-	What year was the fertility highest
+-	The relationship between continents and infant mortality, life expectancy and fertility
