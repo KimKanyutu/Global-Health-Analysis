@@ -14,7 +14,7 @@ Health and income outcomes for 184 countries from 1960 to 2016. Also includes tw
 |Continent| Continent |
 |region	| Geographical region |
 
-Questions to be answered:
+**Questions to be answered:**
 - What is the average infant mortality rate, life expectancy, fertility across the world.
 -	What is the average world’s population
 -	Which countries lead in infant mortality
